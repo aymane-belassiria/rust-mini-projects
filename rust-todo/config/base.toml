@@ -1,0 +1,3 @@
+app_name = "rust-todo"
+env = "development"
+port = 8080
